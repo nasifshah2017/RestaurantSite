@@ -1,0 +1,113 @@
+/*ul li {
+	display: inline;
+
+}*/
+
+body {
+	/*padding-top: 70px;*/
+}
+
+h4 {
+	padding-top: 30px;
+	padding-bottom: 10px;
+	text-transform: uppercase;
+}
+
+p {
+	padding-top: 30px;
+}
+
+ul li {
+	/*display: flex;*/
+	list-style: none;
+}
+
+.space {
+	padding-top: 30px;
+}
+
+.navbar {
+	margin-left: 70px;
+	margin-right: 70px;
+	/*margin: auto;*/
+}
+
+.navbar-header {
+	font-family: Nunito;
+	text-transform: uppercase;
+	/* font-weight: 10px; */
+	/* font-size: 50px; */
+}
+
+.navbar-nav {
+	font-family: Raleway;
+	text-transform: uppercase;
+	color: white;
+}
+
+/*.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}*/
+
+.navbar-inverse .navbar-brand {
+	color: white;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+.image {
+	/* height: 500px; */
+	/* width: 1200px; */
+	   padding-top: 70px;
+	/*padding-right: 300px;*/
+	margin-left: 8px;
+	margin-right: 8.5px;
+}
+
+.Text {
+	font-family: Nunito;
+	text-transform: uppercase;
+	color: white;
+	padding-bottom: 30px;
+	text-align: center;
+}
+
+/* Centered Text */
+
+.centered {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	
+}
+
+.poster {
+	margin-right: 70px;
+	margin-left: 70px;
+	display: flex;
+}
+
+.background {
+	background: url(https://www.chelsea-fusion.com/wp-content/uploads/2014/12/SLCBK-colour-laminate-glass-black-opaque.jpg) top center no-repeat;
+	background-size: cover;
+	/*flex: 1;
+	padding-bottom: 7em;*/
+
+}
+
+.center {
+	margin: auto;
+	/*border: 3px solid green;*/
+	/*padding-right: 10px;
+	padding-left: 10px;*/
+	/*margin-left: 70px;*/
+	/*margin-right: 70px;*/
+}
+
+
+
+/*.image {
+	margin-left: 70px;
+	margin-right: 70px;
+}*/
